@@ -174,6 +174,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No          | 3 apps    |                   | Static | No     |
 | [Stacktree](https://stacktr.ee)                                  | [Pro](https://stacktr.ee/pricing) (8 \$/m)               | No          | Yes       |                   | Static | No     |
 | [Netlify](https://www.netlify.com)                               | [Personal](https://www.netlify.com/pricing) (9 \$/m)     | No          | Yes       | Yes               | Static | Yes    |
+| [Layero](https://layero.ru)                                      | [Pro](https://layero.ru/pricing) (12.69 \$/m)            | No          | Yes       |                   | Static | No     |
 | [Sherpa](https://www.sherpa.sh)                                  | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)      | No          | Yes       |                   | Static | Yes    |
 | [dAppling Network](https://dappling.network)                     | [Grow](https://www.dappling.network) (20 \$/user/m)      | No          | Yes       |                   | Static | No     |
 | [Vercel](https://vercel.com)                                     | [Pro](https://vercel.com/pricing) (20 \$/m)              | No          | Yes       | Increase resource | Static | Yes    |
